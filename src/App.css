@@ -1,0 +1,20 @@
+.paddingTop {
+    padding-top: 70px;
+}
+
+.loaderWrapper {
+    padding-top: 45vh;
+    height: 100vh;
+}
+
+.block {
+    display: block
+}
+
+.block:hover {
+    box-shadow: 3px 7px 69px -16px rgba(0, 0, 0, 0.42);
+}
+
+.navbar-default .navbar-form {
+    border: none;
+}
